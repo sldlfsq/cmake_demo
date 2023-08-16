@@ -1,0 +1,2 @@
+"D:\Program Files\mingw64\bin\ar.exe" qc D:\CYJ_soft\vscode_demo\demo4\libary\libtest.a CMakeFiles/test.dir/test.c.obj
+"D:\Program Files\mingw64\bin\ranlib.exe" D:\CYJ_soft\vscode_demo\demo4\libary\libtest.a

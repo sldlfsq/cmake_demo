@@ -1,0 +1,8 @@
+D:/CYJ_soft/vscode_demo/demo4/build/CMakeFiles/edit_cache.dir
+D:/CYJ_soft/vscode_demo/demo4/build/CMakeFiles/rebuild_cache.dir
+D:/CYJ_soft/vscode_demo/demo4/build/test/CMakeFiles/test.dir
+D:/CYJ_soft/vscode_demo/demo4/build/test/CMakeFiles/edit_cache.dir
+D:/CYJ_soft/vscode_demo/demo4/build/test/CMakeFiles/rebuild_cache.dir
+D:/CYJ_soft/vscode_demo/demo4/build/main/CMakeFiles/main.dir
+D:/CYJ_soft/vscode_demo/demo4/build/main/CMakeFiles/edit_cache.dir
+D:/CYJ_soft/vscode_demo/demo4/build/main/CMakeFiles/rebuild_cache.dir
